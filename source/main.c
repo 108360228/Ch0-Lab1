@@ -3,6 +3,7 @@
 int main(void)
 {
 	printf("Welcome to C!\n");
+	printf("My student id is:108360228\n");
 	system("pause");
 	return 0;
 }
